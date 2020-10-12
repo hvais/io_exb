@@ -1,4 +1,4 @@
-var base_url = 'http://oamklocal.test/io_exb/io_exb/';
+var base_url = 'http://localhost/io_exb/';
 
 function getUsers() {
     var xmlUsers = new XMLHttpRequest();
